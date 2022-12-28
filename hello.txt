@@ -13,3 +13,4 @@ hello world hello git!
 hello git!
 hello branch hot-fix
 master branck test
+hello branck hot-fix2
